@@ -328,6 +328,7 @@ header label :hover{
     .deslizar{
         background:white;
         width: 36px;
+        height: 36px;
     }
 }
 /* hacer responsive para el celular contenedores*/
