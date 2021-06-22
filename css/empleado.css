@@ -303,13 +303,13 @@ header label :hover{
 /* hacer responsive el nav */
 @media (max-width:768px){
     header label{
-        display: block;
+        display: block;jih
     }
     
     .menu{
         position: absolute;
         background: rgb(97, 96, 93);
-        width: 40%;
+        width: 60%;
         margin-left: -70%;
         transition: all 0.8s;
     }
