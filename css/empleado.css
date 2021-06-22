@@ -357,8 +357,7 @@ header label :hover{
     }
     .observar{
         position: relative;
-        position: relative;
-        left: 20px;
+        left: 10px;
         top:20px;
         max-width: 80%;
     }
